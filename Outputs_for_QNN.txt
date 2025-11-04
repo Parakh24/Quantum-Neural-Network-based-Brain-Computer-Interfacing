@@ -1,0 +1,78 @@
+Application of RF: for (40x magnification) 
+
+Accuracy Score for Histopathological_40x: 45.0
+Precision Score for Histopathological_40x: 45.45454545454545
+Recall Score for Histopathological_40x: 50.0
+F1 Score for Histopathological_40x: 47.61904761904761
+
+
+Application of RF: for (100x magnification) 
+
+Accuracy Score for Histopathological_100x (RF): 30.0
+Precision Score for Histopathological_100x (RF): 33.33333333333333
+Recall Score for Histopathological_100x (RF): 40.0
+F1 Score for Histopathological_100x (RF): 36.36363636363637
+
+
+
+
+
+
+
+Application of DT: for (100x magnification) 
+
+Accuracy Score for Histopathological_100x (DT): 50.0
+Precision Score for Histopathological_100x (RDT): 47.05882352941176
+Recall Score for Histopathological_100x (DT): 88.88888888888889
+F1 Score for Histopathological_100x (DT): 61.53846153846154  
+
+
+Application of DT: for (40x magnification) 
+
+Accuracy Score for Histopathological_40x (DT): 40.0
+Precision Score for Histopathological_40x (RDT): 44.44444444444444
+Recall Score for Histopathological_40x (DT): 36.36363636363637
+F1 Score for Histopathological_40x (DT): 40.0
+
+
+
+
+Application of NB: for (40x magnification) 
+
+Accuracy Score for Histopathological_40x (NB): 45.0
+Precision Score for Histopathological_40x (NB): 50.0
+Recall Score for Histopathological_40x (NB): 45.45454545454545
+F1 Score for Histopathological_40x (NB): 47.61904761904761 
+
+
+Application of NB: for (100x magnification) 
+
+
+Accuracy Score for Histopathological_40x (NB): 50.0
+Precision Score for Histopathological_40x (NB): 50.0
+Recall Score for Histopathological_40x (NB): 60.0
+F1 Score for Histopathological_40x (NB): 54.54545454545454
+
+
+
+
+
+
+
+Application of QNN: for (40X magnification) 
+
+
+Accuracy for Histopathological_40x magnification:  66
+Precision for Histopathological_40x magnification: 65
+Recall for Histopathological_40x magnification:    68
+F1-Score for Histopathological_40x magnification:  67
+
+
+Application of QNN: for (100x magnification) 
+
+
+Accuracy for Histopathological_100x magnification:  64
+Precision for Histopathological_100x magnification: 64
+Recall for Histopathological_100x magnification:    64
+F1-Score for Histopathological_100x magnification:  64 
+

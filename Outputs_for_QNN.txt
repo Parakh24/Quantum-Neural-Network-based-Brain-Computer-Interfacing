@@ -1,3 +1,24 @@
+Application of QNN: for (40X magnification) 
+
+
+Accuracy for Histopathological_40x magnification:  66
+Precision for Histopathological_40x magnification: 65
+Recall for Histopathological_40x magnification:    68
+F1-Score for Histopathological_40x magnification:  67
+
+
+Application of QNN: for (100x magnification) 
+
+
+Accuracy for Histopathological_100x magnification:  64
+Precision for Histopathological_100x magnification: 64
+Recall for Histopathological_100x magnification:    64
+F1-Score for Histopathological_100x magnification:  64 
+
+
+
+
+
 Application of RF: for (40x magnification) 
 
 Accuracy Score for Histopathological_40x: 45.0
@@ -59,20 +80,6 @@ F1 Score for Histopathological_40x (NB): 54.54545454545454
 
 
 
-Application of QNN: for (40X magnification) 
 
 
-Accuracy for Histopathological_40x magnification:  66
-Precision for Histopathological_40x magnification: 65
-Recall for Histopathological_40x magnification:    68
-F1-Score for Histopathological_40x magnification:  67
-
-
-Application of QNN: for (100x magnification) 
-
-
-Accuracy for Histopathological_100x magnification:  64
-Precision for Histopathological_100x magnification: 64
-Recall for Histopathological_100x magnification:    64
-F1-Score for Histopathological_100x magnification:  64 
 

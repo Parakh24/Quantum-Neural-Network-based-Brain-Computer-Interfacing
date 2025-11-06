@@ -18,19 +18,19 @@ F1-Score for Histopathological_100x magnification:  64
 
 Application of QNN: for(200x magnification) 
 
-Accuracy for Histopathological_200x:  0.62
-Precision for Histopathological_200x: 0.62
-Recall for Histopathological_200x:    0.62
-F1-Score for Histopathological_200x:  0.62
+Accuracy for Histopathological_200x:  62
+Precision for Histopathological_200x: 62
+Recall for Histopathological_200x:    62
+F1-Score for Histopathological_200x:  62
 
 
 Application of QNN: for(400x magnification) 
 
 
-Accuracy for Histopathological_400x:  0.59
-Precision for Histopathological_400x: 0.57
-Recall for Histopathological_400x:    0.70
-F1-Score for Histopathological_400x:  0.63
+Accuracy for Histopathological_400x:  59
+Precision for Histopathological_400x: 57
+Recall for Histopathological_400x:    70
+F1-Score for Histopathological_400x:  63
 
 
 
@@ -159,6 +159,7 @@ Accuracy Score for Histopathological_40x (NB): 30.0
 Precision Score for Histopathological_40x (NB): 27.77777777777778
 Recall Score for Histopathological_40x (NB): 83.33333333333334
 F1 Score for Histopathological_40x (NB): 41.66666666666667
+
 
 
 

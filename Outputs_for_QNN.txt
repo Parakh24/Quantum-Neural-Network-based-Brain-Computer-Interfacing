@@ -16,6 +16,30 @@ Recall for Histopathological_100x magnification:    64
 F1-Score for Histopathological_100x magnification:  64 
 
 
+Application of QNN: for(200x magnification) 
+
+Accuracy for Histopathological_200x:  0.62
+Precision for Histopathological_200x: 0.62
+Recall for Histopathological_200x:    0.62
+F1-Score for Histopathological_200x:  0.62
+
+
+Application of QNN: for(400x magnification) 
+
+
+Accuracy for Histopathological_400x:  0.59
+Precision for Histopathological_400x: 0.57
+Recall for Histopathological_400x:    0.70
+F1-Score for Histopathological_400x:  0.63
+
+
+
+
+
+
+
+
+
 
 
 
@@ -33,6 +57,27 @@ Accuracy Score for Histopathological_100x (RF): 30.0
 Precision Score for Histopathological_100x (RF): 33.33333333333333
 Recall Score for Histopathological_100x (RF): 40.0
 F1 Score for Histopathological_100x (RF): 36.36363636363637
+
+Application of RF: for (200x magnification) 
+
+Accuracy Score for Histopathological_200x (RF): 45.0
+Precision Score for Histopathological_200x (RF): 33.33333333333333
+Recall Score for Histopathological_200x (RF): 37.5
+F1 Score for Histopathological_200x (RF): 35.294117647058826 
+
+
+Application of RF: for (400x magnification) 
+
+Accuracy Score for Histopathological_200x (RF): 55.00000000000001
+Precision Score for Histopathological_200x (RF): 50.0
+Recall Score for Histopathological_200x (RF): 44.44444444444444
+F1 Score for Histopathological_200x (RF): 47.05882352941176
+
+
+
+
+
+
 
 
 
@@ -53,7 +98,32 @@ Application of DT: for (40x magnification)
 Accuracy Score for Histopathological_40x (DT): 40.0
 Precision Score for Histopathological_40x (RDT): 44.44444444444444
 Recall Score for Histopathological_40x (DT): 36.36363636363637
-F1 Score for Histopathological_40x (DT): 40.0
+F1 Score for Histopathological_40x (DT): 40.0 
+
+Application of DT: for (200x magnification) 
+
+Accuracy Score for Histopathological_40x (DT): 45.0
+Precision Score for Histopathological_40x (RDT): 55.55555555555556
+Recall Score for Histopathological_40x (DT): 41.66666666666667
+F1 Score for Histopathological_40x (DT): 47.61904761904761  
+
+
+Application of DT: for (400x magnification) 
+
+Accuracy Score for Histopathological_40x (DT): 50.0
+Precision Score for Histopathological_40x (RDT): 42.857142857142854
+Recall Score for Histopathological_40x (DT): 75.0
+F1 Score for Histopathological_40x (DT): 54.54545454545454
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -72,7 +142,25 @@ Application of NB: for (100x magnification)
 Accuracy Score for Histopathological_40x (NB): 50.0
 Precision Score for Histopathological_40x (NB): 50.0
 Recall Score for Histopathological_40x (NB): 60.0
-F1 Score for Histopathological_40x (NB): 54.54545454545454
+F1 Score for Histopathological_40x (NB): 54.54545454545454 
+
+
+Application of NB: for (200x magnification) 
+
+Accuracy Score for Histopathological_40x (NB): 45.0
+Precision Score for Histopathological_40x (NB): 57.14285714285714
+Recall Score for Histopathological_40x (NB): 33.33333333333333
+F1 Score for Histopathological_40x (NB): 42.10526315789473 
+
+
+Application of NB: for (400x magnification) 
+
+Accuracy Score for Histopathological_40x (NB): 30.0
+Precision Score for Histopathological_40x (NB): 27.77777777777778
+Recall Score for Histopathological_40x (NB): 83.33333333333334
+F1 Score for Histopathological_40x (NB): 41.66666666666667
+
+
 
 
 
